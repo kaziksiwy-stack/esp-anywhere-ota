@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "esp-anywhere",
+  "version": "0.1.1",
+  "protocol_version": "1.0",
+  "channel": "stable",
+  "hardware_profile": "esp32c3_supermini_oled",
+  "chip_family": "ESP32-C3",
+  "framework": {
+    "name": "esp-idf",
+    "version": "5.5.4"
+  },
+  "build_id": "gpio-test-0.1.1-82959c03",
+  "git_commit": "59294ef9a4f034c626881679351c3566874e3fc8",
+  "published_at": "2026-07-17T09:02:42Z",
+  "release_url": "https://github.com/kaziksiwy-stack/esp-anywhere-ota",
+  "summary": "Pierwszy test OTA ESP Anywhere. Po instalacji OLED pokazuje OTA 0.1.1 OK.",
+  "firmware": {
+    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/59294ef9a4f034c626881679351c3566874e3fc8/firmware-0.1.1.ota.bin",
+    "size": 1010352,
+    "sha256": "828c045c8e0c483f4aa6bf40fc67eb57d6e077e53750cd4d023f34b54c9e4641"
+  },
+  "security": {
+    "key_id": "firmware-prod-2026-01",
+    "signature": "rqHD6DdlZHILmLlAQLB2v23RJLCL6Z9CrSngJEfijPPX8vOMNp2DdZagSWF0gv/ygWXGMYA2ep+JCjsiJ1i/Cg=="
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "esp-anywhere",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "protocol_version": "1.0",
   "channel": "stable",
   "hardware_profile": "esp32c3_supermini_oled",
@@ -10,18 +10,18 @@
     "name": "esp-idf",
     "version": "5.5.4"
   },
-  "build_id": "gpio-test-0.1.1-82959c03-swcrypto",
-  "git_commit": "7a94be6b5fdc462d1e243a94636667f71640699b",
-  "published_at": "2026-07-17T09:49:50Z",
+  "build_id": "gpio-test-0.1.2-024a8eb028ff",
+  "git_commit": "024a8eb028ffea6fbc1fb8acdef591ccc48cc520",
+  "published_at": "2026-07-17T10:01:00Z",
   "release_url": "https://github.com/kaziksiwy-stack/esp-anywhere-ota",
-  "summary": "Pierwszy test OTA ESP Anywhere; poprawiona współbieżność TLS i SHA na ESP32-C3.",
+  "summary": "ESP Anywhere firmware 0.1.2",
   "firmware": {
-    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/7a94be6b5fdc462d1e243a94636667f71640699b/firmware-0.1.1.ota.bin",
+    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/024a8eb028ffea6fbc1fb8acdef591ccc48cc520/firmware-0.1.2.ota.bin",
     "size": 1019376,
-    "sha256": "2ba448b9bd9f8d3807802ef6a0b717c8a9c4d8809cb41c1eeed8bfbe05072206"
+    "sha256": "55e991f62655ccd9546815df68d21969707ac1456aa33b5cb71de7fb2805dcb0"
   },
   "security": {
     "key_id": "firmware-prod-2026-01",
-    "signature": "txxzGi7bqoYbtHnN4KmVdjvM+mbPUNJ08DYPNK9DdjsGyLbOcp5RRSFpyKQVktOD92VleixmOr1bthKO5AxaBA=="
+    "signature": "S/NozE9GmDWcgsX/wgn48Lz2Ko4Z9wwrZr9uitidwxOClYM9ErAHqcFcil8RfH6Ej4aer6xN+srEOhRqNQxCBQ=="
   }
 }

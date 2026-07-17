@@ -10,18 +10,18 @@
     "name": "esp-idf",
     "version": "5.5.4"
   },
-  "build_id": "gpio-test-0.1.1-82959c03",
-  "git_commit": "59294ef9a4f034c626881679351c3566874e3fc8",
-  "published_at": "2026-07-17T09:02:42Z",
+  "build_id": "gpio-test-0.1.1-82959c03-swcrypto",
+  "git_commit": "7a94be6b5fdc462d1e243a94636667f71640699b",
+  "published_at": "2026-07-17T09:49:50Z",
   "release_url": "https://github.com/kaziksiwy-stack/esp-anywhere-ota",
-  "summary": "Pierwszy test OTA ESP Anywhere. Po instalacji OLED pokazuje OTA 0.1.1 OK.",
+  "summary": "Pierwszy test OTA ESP Anywhere; poprawiona współbieżność TLS i SHA na ESP32-C3.",
   "firmware": {
-    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/59294ef9a4f034c626881679351c3566874e3fc8/firmware-0.1.1.ota.bin",
-    "size": 1010352,
-    "sha256": "828c045c8e0c483f4aa6bf40fc67eb57d6e077e53750cd4d023f34b54c9e4641"
+    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/7a94be6b5fdc462d1e243a94636667f71640699b/firmware-0.1.1.ota.bin",
+    "size": 1019376,
+    "sha256": "2ba448b9bd9f8d3807802ef6a0b717c8a9c4d8809cb41c1eeed8bfbe05072206"
   },
   "security": {
     "key_id": "firmware-prod-2026-01",
-    "signature": "rqHD6DdlZHILmLlAQLB2v23RJLCL6Z9CrSngJEfijPPX8vOMNp2DdZagSWF0gv/ygWXGMYA2ep+JCjsiJ1i/Cg=="
+    "signature": "txxzGi7bqoYbtHnN4KmVdjvM+mbPUNJ08DYPNK9DdjsGyLbOcp5RRSFpyKQVktOD92VleixmOr1bthKO5AxaBA=="
   }
 }

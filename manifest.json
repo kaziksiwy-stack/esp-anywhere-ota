@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "esp-anywhere",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "protocol_version": "1.0",
   "channel": "stable",
   "hardware_profile": "esp32c3_supermini_oled",
@@ -10,18 +10,18 @@
     "name": "esp-idf",
     "version": "5.5.4"
   },
-  "build_id": "gpio-test-0.1.2-024a8eb028ff",
-  "git_commit": "024a8eb028ffea6fbc1fb8acdef591ccc48cc520",
-  "published_at": "2026-07-17T10:01:00Z",
+  "build_id": "0.1.3-187c5052035a",
+  "git_commit": "187c5052035a59b034fefecdf72fead05d4f0d76",
+  "published_at": "2026-07-17T11:19:41Z",
   "release_url": "https://github.com/kaziksiwy-stack/esp-anywhere-ota",
-  "summary": "ESP Anywhere firmware 0.1.2",
+  "summary": "ESP Anywhere firmware 0.1.3",
   "firmware": {
-    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/024a8eb028ffea6fbc1fb8acdef591ccc48cc520/firmware-0.1.2.ota.bin",
-    "size": 1019376,
-    "sha256": "55e991f62655ccd9546815df68d21969707ac1456aa33b5cb71de7fb2805dcb0"
+    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/187c5052035a59b034fefecdf72fead05d4f0d76/firmware-0.1.3.ota.bin",
+    "size": 1019344,
+    "sha256": "96341516c6f697b3edd839bada906d921dacfd83b73f49b9e242af78b6baab75"
   },
   "security": {
     "key_id": "firmware-prod-2026-01",
-    "signature": "S/NozE9GmDWcgsX/wgn48Lz2Ko4Z9wwrZr9uitidwxOClYM9ErAHqcFcil8RfH6Ej4aer6xN+srEOhRqNQxCBQ=="
+    "signature": "ZRPIxUqC+FK0tQcL4UN3ye/RjMZwoimS9Ae+ZyWpGVn8NAYM9MqEHZsrcccxn0/3gtrlTuZJ4NyDTidWkrCEAg=="
   }
 }

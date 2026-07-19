@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "esp-anywhere",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "protocol_version": "1.0",
   "channel": "stable",
   "hardware_profile": "esp32c3_supermini_oled",
@@ -10,18 +10,18 @@
     "name": "esp-idf",
     "version": "5.5.4"
   },
-  "build_id": "0.1.8-fe1d99e33743",
-  "git_commit": "fe1d99e33743c608f798566d30180ca64e10b57c",
-  "published_at": "2026-07-19T01:08:05Z",
-  "release_url": "https://github.com/kaziksiwy-stack/esp-anywhere-ota/releases/tag/firmware-v0.1.8",
-  "summary": "ESP Anywhere firmware 0.1.8",
+  "build_id": "0.1.9-5f0a7b9f4382",
+  "git_commit": "5f0a7b9f4382742bacbd5387f847685fdca683d1",
+  "published_at": "2026-07-19T06:15:20Z",
+  "release_url": "https://github.com/kaziksiwy-stack/esp-anywhere-ota/releases/tag/firmware-v0.1.9",
+  "summary": "ESP Anywhere firmware 0.1.9",
   "firmware": {
-    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/fe1d99e33743c608f798566d30180ca64e10b57c/firmware-0.1.8.ota.bin",
+    "url": "https://raw.githubusercontent.com/kaziksiwy-stack/esp-anywhere-ota/5f0a7b9f4382742bacbd5387f847685fdca683d1/firmware-0.1.9.ota.bin",
     "size": 1125104,
-    "sha256": "ed3e94aecf4de10244638db6a638f7e014829760c3cadd16d281290abebb8445"
+    "sha256": "a6bb6d49c17f8e32b7722ee8801e81690c5020ec7823e5783b163fe632dab8d7"
   },
   "security": {
     "key_id": "firmware-prod-2026-01",
-    "signature": "cjtZlXSSKOTYuh8qcKdto2mLkMueYsUw7og0ERXKv4Gu9Q613GPmBhUNBKX3hjzqSofJ6dXrk5GCdjicGK6IDA=="
+    "signature": "Q0xQrzs0K+xV3qQwWnnc57XtB+v69PVtub1fK/VDa6OUOV5ZUotCZYgdl8mCRF6o+borXtS+m7bazli/Ey8HCA=="
   }
 }
